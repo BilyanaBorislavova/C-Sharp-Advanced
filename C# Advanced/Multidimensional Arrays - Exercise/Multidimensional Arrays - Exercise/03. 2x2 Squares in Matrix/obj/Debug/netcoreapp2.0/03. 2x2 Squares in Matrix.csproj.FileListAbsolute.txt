@@ -1,0 +1,10 @@
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\03. 2x2 Squares in Matrix\bin\Debug\netcoreapp2.0\03. 2x2 Squares in Matrix.deps.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\03. 2x2 Squares in Matrix\bin\Debug\netcoreapp2.0\03. 2x2 Squares in Matrix.runtimeconfig.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\03. 2x2 Squares in Matrix\bin\Debug\netcoreapp2.0\03. 2x2 Squares in Matrix.runtimeconfig.dev.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\03. 2x2 Squares in Matrix\bin\Debug\netcoreapp2.0\03. 2x2 Squares in Matrix.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\03. 2x2 Squares in Matrix\bin\Debug\netcoreapp2.0\03. 2x2 Squares in Matrix.pdb
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\03. 2x2 Squares in Matrix\obj\Debug\netcoreapp2.0\03. 2x2 Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\03. 2x2 Squares in Matrix\obj\Debug\netcoreapp2.0\03. 2x2 Squares in Matrix.AssemblyInfoInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\03. 2x2 Squares in Matrix\obj\Debug\netcoreapp2.0\03. 2x2 Squares in Matrix.AssemblyInfo.cs
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\03. 2x2 Squares in Matrix\obj\Debug\netcoreapp2.0\03. 2x2 Squares in Matrix.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\03. 2x2 Squares in Matrix\obj\Debug\netcoreapp2.0\03. 2x2 Squares in Matrix.pdb

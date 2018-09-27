@@ -1,0 +1,11 @@
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\05, Rubik’s Matrix\bin\Debug\netcoreapp2.0\05. Rubik’s Matrix.deps.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\05, Rubik’s Matrix\bin\Debug\netcoreapp2.0\05. Rubik’s Matrix.runtimeconfig.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\05, Rubik’s Matrix\bin\Debug\netcoreapp2.0\05. Rubik’s Matrix.runtimeconfig.dev.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\05, Rubik’s Matrix\bin\Debug\netcoreapp2.0\05. Rubik’s Matrix.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\05, Rubik’s Matrix\bin\Debug\netcoreapp2.0\05. Rubik’s Matrix.pdb
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\05, Rubik’s Matrix\obj\Debug\netcoreapp2.0\05. Rubik’s Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\05, Rubik’s Matrix\obj\Debug\netcoreapp2.0\05. Rubik’s Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\05, Rubik’s Matrix\obj\Debug\netcoreapp2.0\05. Rubik’s Matrix.AssemblyInfoInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\05, Rubik’s Matrix\obj\Debug\netcoreapp2.0\05. Rubik’s Matrix.AssemblyInfo.cs
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\05, Rubik’s Matrix\obj\Debug\netcoreapp2.0\05. Rubik’s Matrix.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\05, Rubik’s Matrix\obj\Debug\netcoreapp2.0\05. Rubik’s Matrix.pdb

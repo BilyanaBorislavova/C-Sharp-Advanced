@@ -1,0 +1,11 @@
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\01. Sum Matrix Elements\bin\Debug\netcoreapp2.0\01. Sum Matrix Elements.deps.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\01. Sum Matrix Elements\bin\Debug\netcoreapp2.0\01. Sum Matrix Elements.runtimeconfig.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\01. Sum Matrix Elements\bin\Debug\netcoreapp2.0\01. Sum Matrix Elements.runtimeconfig.dev.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\01. Sum Matrix Elements\bin\Debug\netcoreapp2.0\01. Sum Matrix Elements.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\01. Sum Matrix Elements\bin\Debug\netcoreapp2.0\01. Sum Matrix Elements.pdb
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\01. Sum Matrix Elements\obj\Debug\netcoreapp2.0\01. Sum Matrix Elements.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\01. Sum Matrix Elements\obj\Debug\netcoreapp2.0\01. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\01. Sum Matrix Elements\obj\Debug\netcoreapp2.0\01. Sum Matrix Elements.AssemblyInfoInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\01. Sum Matrix Elements\obj\Debug\netcoreapp2.0\01. Sum Matrix Elements.AssemblyInfo.cs
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\01. Sum Matrix Elements\obj\Debug\netcoreapp2.0\01. Sum Matrix Elements.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\01. Sum Matrix Elements\obj\Debug\netcoreapp2.0\01. Sum Matrix Elements.pdb

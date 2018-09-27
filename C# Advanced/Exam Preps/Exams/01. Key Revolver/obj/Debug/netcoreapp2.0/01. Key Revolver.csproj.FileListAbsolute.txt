@@ -1,0 +1,11 @@
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\01. Key Revolver\bin\Debug\netcoreapp2.0\01. Key Revolver.deps.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\01. Key Revolver\bin\Debug\netcoreapp2.0\01. Key Revolver.runtimeconfig.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\01. Key Revolver\bin\Debug\netcoreapp2.0\01. Key Revolver.runtimeconfig.dev.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\01. Key Revolver\bin\Debug\netcoreapp2.0\01. Key Revolver.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\01. Key Revolver\bin\Debug\netcoreapp2.0\01. Key Revolver.pdb
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\01. Key Revolver\obj\Debug\netcoreapp2.0\01. Key Revolver.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\01. Key Revolver\obj\Debug\netcoreapp2.0\01. Key Revolver.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\01. Key Revolver\obj\Debug\netcoreapp2.0\01. Key Revolver.AssemblyInfoInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\01. Key Revolver\obj\Debug\netcoreapp2.0\01. Key Revolver.AssemblyInfo.cs
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\01. Key Revolver\obj\Debug\netcoreapp2.0\01. Key Revolver.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\01. Key Revolver\obj\Debug\netcoreapp2.0\01. Key Revolver.pdb
