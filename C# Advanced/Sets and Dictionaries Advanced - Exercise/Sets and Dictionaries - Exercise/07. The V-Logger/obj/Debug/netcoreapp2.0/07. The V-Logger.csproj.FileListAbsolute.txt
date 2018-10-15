@@ -1,0 +1,11 @@
+C:\Users\Toch\Desktop\C#\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries - Exercise\07. The V-Logger\bin\Debug\netcoreapp2.0\07. The V-Logger.deps.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries - Exercise\07. The V-Logger\bin\Debug\netcoreapp2.0\07. The V-Logger.runtimeconfig.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries - Exercise\07. The V-Logger\bin\Debug\netcoreapp2.0\07. The V-Logger.runtimeconfig.dev.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries - Exercise\07. The V-Logger\bin\Debug\netcoreapp2.0\07. The V-Logger.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries - Exercise\07. The V-Logger\bin\Debug\netcoreapp2.0\07. The V-Logger.pdb
+C:\Users\Toch\Desktop\C#\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries - Exercise\07. The V-Logger\obj\Debug\netcoreapp2.0\07. The V-Logger.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries - Exercise\07. The V-Logger\obj\Debug\netcoreapp2.0\07. The V-Logger.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries - Exercise\07. The V-Logger\obj\Debug\netcoreapp2.0\07. The V-Logger.AssemblyInfoInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries - Exercise\07. The V-Logger\obj\Debug\netcoreapp2.0\07. The V-Logger.AssemblyInfo.cs
+C:\Users\Toch\Desktop\C#\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries - Exercise\07. The V-Logger\obj\Debug\netcoreapp2.0\07. The V-Logger.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries - Exercise\07. The V-Logger\obj\Debug\netcoreapp2.0\07. The V-Logger.pdb

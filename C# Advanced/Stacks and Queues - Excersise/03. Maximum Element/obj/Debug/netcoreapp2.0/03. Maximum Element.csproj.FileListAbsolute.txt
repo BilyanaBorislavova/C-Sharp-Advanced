@@ -1,0 +1,10 @@
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\01. Reverse Numbers with a Stack\03. Maximum Element\bin\Debug\netcoreapp2.0\03. Maximum Element.deps.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\01. Reverse Numbers with a Stack\03. Maximum Element\bin\Debug\netcoreapp2.0\03. Maximum Element.runtimeconfig.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\01. Reverse Numbers with a Stack\03. Maximum Element\bin\Debug\netcoreapp2.0\03. Maximum Element.runtimeconfig.dev.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\01. Reverse Numbers with a Stack\03. Maximum Element\bin\Debug\netcoreapp2.0\03. Maximum Element.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\01. Reverse Numbers with a Stack\03. Maximum Element\bin\Debug\netcoreapp2.0\03. Maximum Element.pdb
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\01. Reverse Numbers with a Stack\03. Maximum Element\obj\Debug\netcoreapp2.0\03. Maximum Element.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\01. Reverse Numbers with a Stack\03. Maximum Element\obj\Debug\netcoreapp2.0\03. Maximum Element.AssemblyInfoInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\01. Reverse Numbers with a Stack\03. Maximum Element\obj\Debug\netcoreapp2.0\03. Maximum Element.AssemblyInfo.cs
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\01. Reverse Numbers with a Stack\03. Maximum Element\obj\Debug\netcoreapp2.0\03. Maximum Element.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\01. Reverse Numbers with a Stack\03. Maximum Element\obj\Debug\netcoreapp2.0\03. Maximum Element.pdb

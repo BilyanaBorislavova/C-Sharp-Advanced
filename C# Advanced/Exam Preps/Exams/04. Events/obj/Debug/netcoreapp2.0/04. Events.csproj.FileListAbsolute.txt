@@ -1,0 +1,10 @@
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\04. Events\bin\Debug\netcoreapp2.0\04. Events.deps.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\04. Events\bin\Debug\netcoreapp2.0\04. Events.runtimeconfig.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\04. Events\bin\Debug\netcoreapp2.0\04. Events.runtimeconfig.dev.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\04. Events\bin\Debug\netcoreapp2.0\04. Events.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\04. Events\bin\Debug\netcoreapp2.0\04. Events.pdb
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\04. Events\obj\Debug\netcoreapp2.0\04. Events.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\04. Events\obj\Debug\netcoreapp2.0\04. Events.AssemblyInfoInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\04. Events\obj\Debug\netcoreapp2.0\04. Events.AssemblyInfo.cs
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\04. Events\obj\Debug\netcoreapp2.0\04. Events.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\04. Events\obj\Debug\netcoreapp2.0\04. Events.pdb

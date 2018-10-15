@@ -1,0 +1,22 @@
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\01. Reverse Numbers with a Stack\10. Poisonous Plants\bin\Debug\netcoreapp2.0\10. Poisonous Plants.deps.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\01. Reverse Numbers with a Stack\10. Poisonous Plants\bin\Debug\netcoreapp2.0\10. Poisonous Plants.runtimeconfig.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\01. Reverse Numbers with a Stack\10. Poisonous Plants\bin\Debug\netcoreapp2.0\10. Poisonous Plants.runtimeconfig.dev.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\01. Reverse Numbers with a Stack\10. Poisonous Plants\bin\Debug\netcoreapp2.0\10. Poisonous Plants.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\01. Reverse Numbers with a Stack\10. Poisonous Plants\bin\Debug\netcoreapp2.0\10. Poisonous Plants.pdb
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\01. Reverse Numbers with a Stack\10. Poisonous Plants\obj\Debug\netcoreapp2.0\10. Poisonous Plants.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\01. Reverse Numbers with a Stack\10. Poisonous Plants\obj\Debug\netcoreapp2.0\10. Poisonous Plants.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\01. Reverse Numbers with a Stack\10. Poisonous Plants\obj\Debug\netcoreapp2.0\10. Poisonous Plants.AssemblyInfoInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\01. Reverse Numbers with a Stack\10. Poisonous Plants\obj\Debug\netcoreapp2.0\10. Poisonous Plants.AssemblyInfo.cs
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\01. Reverse Numbers with a Stack\10. Poisonous Plants\obj\Debug\netcoreapp2.0\10. Poisonous Plants.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\01. Reverse Numbers with a Stack\10. Poisonous Plants\obj\Debug\netcoreapp2.0\10. Poisonous Plants.pdb
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\10. Poisonous Plants\bin\Debug\netcoreapp2.0\10. Poisonous Plants.deps.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\10. Poisonous Plants\bin\Debug\netcoreapp2.0\10. Poisonous Plants.runtimeconfig.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\10. Poisonous Plants\bin\Debug\netcoreapp2.0\10. Poisonous Plants.runtimeconfig.dev.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\10. Poisonous Plants\bin\Debug\netcoreapp2.0\10. Poisonous Plants.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\10. Poisonous Plants\bin\Debug\netcoreapp2.0\10. Poisonous Plants.pdb
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\10. Poisonous Plants\obj\Debug\netcoreapp2.0\10. Poisonous Plants.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\10. Poisonous Plants\obj\Debug\netcoreapp2.0\10. Poisonous Plants.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\10. Poisonous Plants\obj\Debug\netcoreapp2.0\10. Poisonous Plants.AssemblyInfoInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\10. Poisonous Plants\obj\Debug\netcoreapp2.0\10. Poisonous Plants.AssemblyInfo.cs
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\10. Poisonous Plants\obj\Debug\netcoreapp2.0\10. Poisonous Plants.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\10. Poisonous Plants\obj\Debug\netcoreapp2.0\10. Poisonous Plants.pdb

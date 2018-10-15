@@ -1,0 +1,11 @@
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\fak1\bin\Debug\netcoreapp2.0\fak1.deps.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\fak1\bin\Debug\netcoreapp2.0\fak1.runtimeconfig.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\fak1\bin\Debug\netcoreapp2.0\fak1.runtimeconfig.dev.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\fak1\bin\Debug\netcoreapp2.0\fak1.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\fak1\bin\Debug\netcoreapp2.0\fak1.pdb
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\fak1\obj\Debug\netcoreapp2.0\fak1.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\fak1\obj\Debug\netcoreapp2.0\fak1.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\fak1\obj\Debug\netcoreapp2.0\fak1.AssemblyInfoInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\fak1\obj\Debug\netcoreapp2.0\fak1.AssemblyInfo.cs
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\fak1\obj\Debug\netcoreapp2.0\fak1.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\fak1\obj\Debug\netcoreapp2.0\fak1.pdb

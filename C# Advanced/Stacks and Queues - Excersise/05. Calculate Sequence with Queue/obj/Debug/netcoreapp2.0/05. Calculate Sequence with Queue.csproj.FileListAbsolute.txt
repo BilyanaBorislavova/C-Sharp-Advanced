@@ -1,0 +1,11 @@
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\05. Calculate Sequence with Queue\bin\Debug\netcoreapp2.0\05. Calculate Sequence with Queue.deps.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\05. Calculate Sequence with Queue\bin\Debug\netcoreapp2.0\05. Calculate Sequence with Queue.runtimeconfig.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\05. Calculate Sequence with Queue\bin\Debug\netcoreapp2.0\05. Calculate Sequence with Queue.runtimeconfig.dev.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\05. Calculate Sequence with Queue\bin\Debug\netcoreapp2.0\05. Calculate Sequence with Queue.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\05. Calculate Sequence with Queue\bin\Debug\netcoreapp2.0\05. Calculate Sequence with Queue.pdb
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\05. Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\05. Calculate Sequence with Queue.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\05. Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\05. Calculate Sequence with Queue.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\05. Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\05. Calculate Sequence with Queue.AssemblyInfoInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\05. Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\05. Calculate Sequence with Queue.AssemblyInfo.cs
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\05. Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\05. Calculate Sequence with Queue.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Excersise\05. Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\05. Calculate Sequence with Queue.pdb

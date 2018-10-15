@@ -1,0 +1,11 @@
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\05. Square with Maximum Sum\bin\Debug\netcoreapp2.0\05. Square with Maximum Sum.deps.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\05. Square with Maximum Sum\bin\Debug\netcoreapp2.0\05. Square with Maximum Sum.runtimeconfig.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\05. Square with Maximum Sum\bin\Debug\netcoreapp2.0\05. Square with Maximum Sum.runtimeconfig.dev.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\05. Square with Maximum Sum\bin\Debug\netcoreapp2.0\05. Square with Maximum Sum.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\05. Square with Maximum Sum\bin\Debug\netcoreapp2.0\05. Square with Maximum Sum.pdb
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\05. Square with Maximum Sum\obj\Debug\netcoreapp2.0\05. Square with Maximum Sum.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\05. Square with Maximum Sum\obj\Debug\netcoreapp2.0\05. Square with Maximum Sum.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\05. Square with Maximum Sum\obj\Debug\netcoreapp2.0\05. Square with Maximum Sum.AssemblyInfoInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\05. Square with Maximum Sum\obj\Debug\netcoreapp2.0\05. Square with Maximum Sum.AssemblyInfo.cs
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\05. Square with Maximum Sum\obj\Debug\netcoreapp2.0\05. Square with Maximum Sum.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\05. Square with Maximum Sum\obj\Debug\netcoreapp2.0\05. Square with Maximum Sum.pdb

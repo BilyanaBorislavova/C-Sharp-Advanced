@@ -1,0 +1,10 @@
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\netcoreapp2.0\04. Symbol in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\netcoreapp2.0\04. Symbol in Matrix.AssemblyInfoInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\netcoreapp2.0\04. Symbol in Matrix.AssemblyInfo.cs
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\04. Symbol in Matrix\bin\Debug\netcoreapp2.0\04. Symbol in Matrix.deps.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\04. Symbol in Matrix\bin\Debug\netcoreapp2.0\04. Symbol in Matrix.runtimeconfig.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\04. Symbol in Matrix\bin\Debug\netcoreapp2.0\04. Symbol in Matrix.runtimeconfig.dev.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\04. Symbol in Matrix\bin\Debug\netcoreapp2.0\04. Symbol in Matrix.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\04. Symbol in Matrix\bin\Debug\netcoreapp2.0\04. Symbol in Matrix.pdb
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\netcoreapp2.0\04. Symbol in Matrix.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Multidimensional Arrays - Lab\Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\netcoreapp2.0\04. Symbol in Matrix.pdb

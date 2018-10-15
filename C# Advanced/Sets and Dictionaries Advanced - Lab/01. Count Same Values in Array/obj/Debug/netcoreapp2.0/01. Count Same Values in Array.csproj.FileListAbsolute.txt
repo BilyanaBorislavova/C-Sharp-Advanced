@@ -1,0 +1,11 @@
+C:\Users\Toch\Desktop\C#\C# Advanced\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\netcoreapp2.0\01. Count Same Values in Array.deps.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\netcoreapp2.0\01. Count Same Values in Array.runtimeconfig.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\netcoreapp2.0\01. Count Same Values in Array.runtimeconfig.dev.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\netcoreapp2.0\01. Count Same Values in Array.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\netcoreapp2.0\01. Count Same Values in Array.pdb
+C:\Users\Toch\Desktop\C#\C# Advanced\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\netcoreapp2.0\01. Count Same Values in Array.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\netcoreapp2.0\01. Count Same Values in Array.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\netcoreapp2.0\01. Count Same Values in Array.AssemblyInfoInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\netcoreapp2.0\01. Count Same Values in Array.AssemblyInfo.cs
+C:\Users\Toch\Desktop\C#\C# Advanced\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\netcoreapp2.0\01. Count Same Values in Array.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\netcoreapp2.0\01. Count Same Values in Array.pdb

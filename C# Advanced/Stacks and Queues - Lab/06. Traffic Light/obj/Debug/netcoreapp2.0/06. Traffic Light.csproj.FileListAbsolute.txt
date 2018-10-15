@@ -1,0 +1,10 @@
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Lab\06. Traffic Light\bin\Debug\netcoreapp2.0\06. Traffic Light.deps.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Lab\06. Traffic Light\bin\Debug\netcoreapp2.0\06. Traffic Light.runtimeconfig.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Lab\06. Traffic Light\bin\Debug\netcoreapp2.0\06. Traffic Light.runtimeconfig.dev.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Lab\06. Traffic Light\bin\Debug\netcoreapp2.0\06. Traffic Light.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Lab\06. Traffic Light\bin\Debug\netcoreapp2.0\06. Traffic Light.pdb
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Lab\06. Traffic Light\obj\Debug\netcoreapp2.0\06. Traffic Light.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Lab\06. Traffic Light\obj\Debug\netcoreapp2.0\06. Traffic Light.AssemblyInfoInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Lab\06. Traffic Light\obj\Debug\netcoreapp2.0\06. Traffic Light.AssemblyInfo.cs
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Lab\06. Traffic Light\obj\Debug\netcoreapp2.0\06. Traffic Light.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Stacks and Queues - Lab\06. Traffic Light\obj\Debug\netcoreapp2.0\06. Traffic Light.pdb

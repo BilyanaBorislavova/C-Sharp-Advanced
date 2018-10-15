@@ -1,0 +1,11 @@
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\02. Monopoly\bin\Debug\netcoreapp2.0\02. Monopoly.deps.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\02. Monopoly\bin\Debug\netcoreapp2.0\02. Monopoly.runtimeconfig.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\02. Monopoly\bin\Debug\netcoreapp2.0\02. Monopoly.runtimeconfig.dev.json
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\02. Monopoly\bin\Debug\netcoreapp2.0\02. Monopoly.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\02. Monopoly\bin\Debug\netcoreapp2.0\02. Monopoly.pdb
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\02. Monopoly\obj\Debug\netcoreapp2.0\02. Monopoly.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\02. Monopoly\obj\Debug\netcoreapp2.0\02. Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\02. Monopoly\obj\Debug\netcoreapp2.0\02. Monopoly.AssemblyInfoInputs.cache
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\02. Monopoly\obj\Debug\netcoreapp2.0\02. Monopoly.AssemblyInfo.cs
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\02. Monopoly\obj\Debug\netcoreapp2.0\02. Monopoly.dll
+C:\Users\Toch\Desktop\C#\C# Advanced\Exam Preps\Exams\02. Monopoly\obj\Debug\netcoreapp2.0\02. Monopoly.pdb
