@@ -1,0 +1,11 @@
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.deps.json
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.runtimeconfig.json
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.runtimeconfig.dev.json
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.dll
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.pdb
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.AssemblyInfoInputs.cache
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.AssemblyInfo.cs
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.dll
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.pdb

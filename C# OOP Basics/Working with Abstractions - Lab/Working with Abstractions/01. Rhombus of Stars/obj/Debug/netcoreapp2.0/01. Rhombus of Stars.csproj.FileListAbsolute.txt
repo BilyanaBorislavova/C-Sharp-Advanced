@@ -1,0 +1,11 @@
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Working with Abstractions - Lab\Working with Abstractions\01. Rhombus of Stars\bin\Debug\netcoreapp2.0\01. Rhombus of Stars.deps.json
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Working with Abstractions - Lab\Working with Abstractions\01. Rhombus of Stars\bin\Debug\netcoreapp2.0\01. Rhombus of Stars.runtimeconfig.json
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Working with Abstractions - Lab\Working with Abstractions\01. Rhombus of Stars\bin\Debug\netcoreapp2.0\01. Rhombus of Stars.runtimeconfig.dev.json
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Working with Abstractions - Lab\Working with Abstractions\01. Rhombus of Stars\bin\Debug\netcoreapp2.0\01. Rhombus of Stars.dll
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Working with Abstractions - Lab\Working with Abstractions\01. Rhombus of Stars\bin\Debug\netcoreapp2.0\01. Rhombus of Stars.pdb
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Working with Abstractions - Lab\Working with Abstractions\01. Rhombus of Stars\obj\Debug\netcoreapp2.0\01. Rhombus of Stars.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Working with Abstractions - Lab\Working with Abstractions\01. Rhombus of Stars\obj\Debug\netcoreapp2.0\01. Rhombus of Stars.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Working with Abstractions - Lab\Working with Abstractions\01. Rhombus of Stars\obj\Debug\netcoreapp2.0\01. Rhombus of Stars.AssemblyInfoInputs.cache
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Working with Abstractions - Lab\Working with Abstractions\01. Rhombus of Stars\obj\Debug\netcoreapp2.0\01. Rhombus of Stars.AssemblyInfo.cs
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Working with Abstractions - Lab\Working with Abstractions\01. Rhombus of Stars\obj\Debug\netcoreapp2.0\01. Rhombus of Stars.dll
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Working with Abstractions - Lab\Working with Abstractions\01. Rhombus of Stars\obj\Debug\netcoreapp2.0\01. Rhombus of Stars.pdb

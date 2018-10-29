@@ -1,0 +1,11 @@
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\02.ClassBoxDataValidation\bin\Debug\netcoreapp2.0\02.ClassBoxDataValidation.deps.json
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\02.ClassBoxDataValidation\bin\Debug\netcoreapp2.0\02.ClassBoxDataValidation.runtimeconfig.json
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\02.ClassBoxDataValidation\bin\Debug\netcoreapp2.0\02.ClassBoxDataValidation.runtimeconfig.dev.json
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\02.ClassBoxDataValidation\bin\Debug\netcoreapp2.0\02.ClassBoxDataValidation.dll
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\02.ClassBoxDataValidation\bin\Debug\netcoreapp2.0\02.ClassBoxDataValidation.pdb
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.0\02.ClassBoxDataValidation.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.0\02.ClassBoxDataValidation.AssemblyInfoInputs.cache
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.0\02.ClassBoxDataValidation.AssemblyInfo.cs
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.0\02.ClassBoxDataValidation.dll
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.0\02.ClassBoxDataValidation.pdb
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Encapsulation - Exercise\Encapsulation - Exercise\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.0\02.ClassBoxDataValidation.csprojResolveAssemblyReference.cache

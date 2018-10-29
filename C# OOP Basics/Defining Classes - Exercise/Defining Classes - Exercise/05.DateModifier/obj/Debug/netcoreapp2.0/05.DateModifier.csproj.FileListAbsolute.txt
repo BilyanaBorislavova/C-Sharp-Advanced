@@ -1,0 +1,11 @@
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Defining Classes - Exercise\Defining Classes - Exercise\05.DateModifier\bin\Debug\netcoreapp2.0\05.DateModifier.deps.json
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Defining Classes - Exercise\Defining Classes - Exercise\05.DateModifier\bin\Debug\netcoreapp2.0\05.DateModifier.runtimeconfig.json
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Defining Classes - Exercise\Defining Classes - Exercise\05.DateModifier\bin\Debug\netcoreapp2.0\05.DateModifier.runtimeconfig.dev.json
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Defining Classes - Exercise\Defining Classes - Exercise\05.DateModifier\bin\Debug\netcoreapp2.0\05.DateModifier.dll
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Defining Classes - Exercise\Defining Classes - Exercise\05.DateModifier\bin\Debug\netcoreapp2.0\05.DateModifier.pdb
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Defining Classes - Exercise\Defining Classes - Exercise\05.DateModifier\obj\Debug\netcoreapp2.0\05.DateModifier.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Defining Classes - Exercise\Defining Classes - Exercise\05.DateModifier\obj\Debug\netcoreapp2.0\05.DateModifier.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Defining Classes - Exercise\Defining Classes - Exercise\05.DateModifier\obj\Debug\netcoreapp2.0\05.DateModifier.AssemblyInfoInputs.cache
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Defining Classes - Exercise\Defining Classes - Exercise\05.DateModifier\obj\Debug\netcoreapp2.0\05.DateModifier.AssemblyInfo.cs
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Defining Classes - Exercise\Defining Classes - Exercise\05.DateModifier\obj\Debug\netcoreapp2.0\05.DateModifier.dll
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Defining Classes - Exercise\Defining Classes - Exercise\05.DateModifier\obj\Debug\netcoreapp2.0\05.DateModifier.pdb
