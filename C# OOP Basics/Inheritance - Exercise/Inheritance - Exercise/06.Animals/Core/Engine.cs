@@ -35,16 +35,25 @@ namespace Animals.Core
                     }
                     else if (animal == "Kitten")
                     {
-                        Kittens kittens = new Kittens(info[0], int.Parse(info[1]), info[2]);
-                        Console.WriteLine(kittens.ToString());
+
+                            Kitten kittens = new Kitten(info[0], int.Parse(info[1]));
+                            Console.WriteLine(kittens.ToString());
+
                     }
                     else if (animal == "Tomcat")
                     {
-                        Tomcat tomcat = new Tomcat(info[0], int.Parse(info[1]), info[2]);
-                        Console.WriteLine(tomcat.ToString());
+
+                            Tomcat tomcat = new Tomcat(info[0], int.Parse(info[1]));
+                            Console.WriteLine(tomcat.ToString());
+
                     }
+                    else
+                    {
+                        Console.WriteLine("Invalid input!");
+                    }
+
                 }
-                catch (Exception ex)
+                catch (ArgumentException ex)
                 {
                     Console.WriteLine(ex.Message);
                 }

@@ -1,0 +1,11 @@
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Interfaces and Abstractions - Exercise\Interfaces and Abstractions\08.MilitaryElite\bin\Debug\netcoreapp2.0\08.MilitaryElite.deps.json
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Interfaces and Abstractions - Exercise\Interfaces and Abstractions\08.MilitaryElite\bin\Debug\netcoreapp2.0\08.MilitaryElite.runtimeconfig.json
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Interfaces and Abstractions - Exercise\Interfaces and Abstractions\08.MilitaryElite\bin\Debug\netcoreapp2.0\08.MilitaryElite.runtimeconfig.dev.json
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Interfaces and Abstractions - Exercise\Interfaces and Abstractions\08.MilitaryElite\bin\Debug\netcoreapp2.0\08.MilitaryElite.dll
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Interfaces and Abstractions - Exercise\Interfaces and Abstractions\08.MilitaryElite\bin\Debug\netcoreapp2.0\08.MilitaryElite.pdb
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Interfaces and Abstractions - Exercise\Interfaces and Abstractions\08.MilitaryElite\obj\Debug\netcoreapp2.0\08.MilitaryElite.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Interfaces and Abstractions - Exercise\Interfaces and Abstractions\08.MilitaryElite\obj\Debug\netcoreapp2.0\08.MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Interfaces and Abstractions - Exercise\Interfaces and Abstractions\08.MilitaryElite\obj\Debug\netcoreapp2.0\08.MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Interfaces and Abstractions - Exercise\Interfaces and Abstractions\08.MilitaryElite\obj\Debug\netcoreapp2.0\08.MilitaryElite.AssemblyInfo.cs
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Interfaces and Abstractions - Exercise\Interfaces and Abstractions\08.MilitaryElite\obj\Debug\netcoreapp2.0\08.MilitaryElite.dll
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Interfaces and Abstractions - Exercise\Interfaces and Abstractions\08.MilitaryElite\obj\Debug\netcoreapp2.0\08.MilitaryElite.pdb

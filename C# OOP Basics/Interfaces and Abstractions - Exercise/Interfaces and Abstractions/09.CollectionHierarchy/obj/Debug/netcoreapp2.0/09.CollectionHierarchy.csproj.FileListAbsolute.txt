@@ -1,0 +1,11 @@
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Interfaces and Abstractions - Exercise\Interfaces and Abstractions\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.deps.json
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Interfaces and Abstractions - Exercise\Interfaces and Abstractions\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.runtimeconfig.json
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Interfaces and Abstractions - Exercise\Interfaces and Abstractions\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.runtimeconfig.dev.json
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Interfaces and Abstractions - Exercise\Interfaces and Abstractions\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.dll
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Interfaces and Abstractions - Exercise\Interfaces and Abstractions\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.pdb
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Interfaces and Abstractions - Exercise\Interfaces and Abstractions\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Interfaces and Abstractions - Exercise\Interfaces and Abstractions\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Interfaces and Abstractions - Exercise\Interfaces and Abstractions\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.AssemblyInfoInputs.cache
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Interfaces and Abstractions - Exercise\Interfaces and Abstractions\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.AssemblyInfo.cs
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Interfaces and Abstractions - Exercise\Interfaces and Abstractions\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.dll
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Interfaces and Abstractions - Exercise\Interfaces and Abstractions\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.pdb

@@ -22,7 +22,10 @@ namespace Animals.Animals
             get => this.name;
             set
             {
-                Validator(value);
+                if(value.Length < 1)
+                {
+                   throw new ArgumentException("Invalid input!");
+                }
                 this.name = value;
             }
         }
@@ -32,8 +35,8 @@ namespace Animals.Animals
             get => this.age;
             set
             {
-                Validator(value.ToString());
-                if(value < 0)
+                
+                if(value <= 0)
                 {
                     throw new ArgumentException("Invalid input!");
                 }
@@ -46,19 +49,15 @@ namespace Animals.Animals
             get => this.gender;
             set
             {
-                Validator(value);
+                if(value.ToLower() != "male" && value.ToLower() != "female")
+                {
+                    throw new ArgumentException("Invalid input!");
+                }
                 this.gender = value;
             }
         }
 
       
-        public void Validator(string value)
-        {
-            if (value == "" || value == " " || value == null)
-            {
-                throw new Exception("Invalid input!");
-            }
-        }
 
         public virtual string ProduceSound()
         {

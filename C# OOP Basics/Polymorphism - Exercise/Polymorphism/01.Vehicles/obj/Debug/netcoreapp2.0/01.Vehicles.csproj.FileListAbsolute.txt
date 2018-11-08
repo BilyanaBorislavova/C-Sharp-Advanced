@@ -1,0 +1,11 @@
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Polymorphism - Exercise\Polymorphism\01.Vehicles\bin\Debug\netcoreapp2.0\01.Vehicles.deps.json
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Polymorphism - Exercise\Polymorphism\01.Vehicles\bin\Debug\netcoreapp2.0\01.Vehicles.runtimeconfig.json
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Polymorphism - Exercise\Polymorphism\01.Vehicles\bin\Debug\netcoreapp2.0\01.Vehicles.runtimeconfig.dev.json
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Polymorphism - Exercise\Polymorphism\01.Vehicles\bin\Debug\netcoreapp2.0\01.Vehicles.dll
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Polymorphism - Exercise\Polymorphism\01.Vehicles\bin\Debug\netcoreapp2.0\01.Vehicles.pdb
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Polymorphism - Exercise\Polymorphism\01.Vehicles\obj\Debug\netcoreapp2.0\01.Vehicles.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Polymorphism - Exercise\Polymorphism\01.Vehicles\obj\Debug\netcoreapp2.0\01.Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Polymorphism - Exercise\Polymorphism\01.Vehicles\obj\Debug\netcoreapp2.0\01.Vehicles.AssemblyInfoInputs.cache
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Polymorphism - Exercise\Polymorphism\01.Vehicles\obj\Debug\netcoreapp2.0\01.Vehicles.AssemblyInfo.cs
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Polymorphism - Exercise\Polymorphism\01.Vehicles\obj\Debug\netcoreapp2.0\01.Vehicles.dll
+C:\Users\Toch\Desktop\C#\C# OOP Basics\Polymorphism - Exercise\Polymorphism\01.Vehicles\obj\Debug\netcoreapp2.0\01.Vehicles.pdb
